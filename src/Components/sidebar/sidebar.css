@@ -1,0 +1,27 @@
+.sidebar-container {
+  /* height: 92dvh; */
+  height: auto;
+  background-color: #1c2833;
+  width: 94px;
+  color: white;
+}
+.sidebar-navs {
+  margin-top: 1rem;
+}
+.title {
+  margin-top: 8px;
+  font-size: 12px;
+}
+.clickable-icon {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  height: 5.5rem;
+}
+.active,
+.clickable-icon:hover {
+  background: #5dade2;
+  border-left: 2px solid white;
+}

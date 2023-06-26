@@ -1,0 +1,10 @@
+.footer {
+  margin: auto;
+  width: 97%;
+  color: #808b96;
+}
+.footer-container {
+  display: flex;
+  height: 3rem;
+  width: 100%;
+}
