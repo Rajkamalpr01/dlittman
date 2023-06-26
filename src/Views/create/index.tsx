@@ -426,7 +426,7 @@ const Home = () => {
             }}
           />
         )}
-        <div style={{ marginLeft: 24, position: "absolute", bottom: "60px" }}>
+        <div style={{ margin: 24, bottom: "60px" }}>
           <button className='button_primary' onClick={(e: any) => changeTab(e)}>
             Save
           </button>
